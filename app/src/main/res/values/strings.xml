@@ -1,0 +1,73 @@
+<resources>
+    <string name="app_name">Home</string>
+    <string name="Terms">Terms</string>
+    <string name="Courses">Courses</string>
+
+
+    <string name="Enter">Enter</string>
+    <string name="TermsList">Terms List</string>
+    <string name="TermsListItem">Terms List Item</string>
+
+    <string name="TermsDetails">Terms Details</string>
+    <string name="CoursesList">Courses List</string>
+    <string name="CoursesListItem">Courses List Item</string>
+
+    <string name="Start">Start</string>
+    <string name="End">End</string>
+    <string name="Fall">Fall/Spring</string>
+    <string name="Date">MM-dd-yyyy</string>
+    <string name="TermName">Term Title</string>
+    <string name="SaveTerm">Save Term</string>
+    <string name="SaveCourse">Save Course</string>
+    <string name="DeleteTerm">Delete Term</string>
+    <string name="DeleteCourse">Delete Course</string>
+    <string name="UpdateTerm">Update Term</string>
+    <string name="UpdateCourse">Update Course</string>
+
+    <string name="CourseDetails">Course Details</string>
+    <string name="CourseName">CourseName</string>
+
+    <string name="AddCourse">Add New Course</string>
+    <string name="AddTerm">Add New Term</string>
+
+    <string name="Status">Status</string>
+    <string name="InstructorName">Instructor Name</string>
+    <string name="InstructorPhone">Instructor Phone</string>
+    <string name="InstructorEmail">Instructor Email</string>
+    <string name="termID">Term ID</string>
+    <string name="GetTerms">Get Terms</string>
+
+
+    <string name="Share">Share</string>
+    <string name="NotifyStart">Notify Start</string>
+    <string name="NotifyEnd">Notify End</string>
+    <string name="AddTerms">Add Terms</string>
+    <string name="notify">Notify</string>
+    <string name="share_note">Share Note</string>
+    <string name="TermAndCourse">Terms Details and Course List</string>
+    <string name="channel_name">Channel Name</string>
+    <string name="channel_description">Notifications for App</string>
+
+    <string name="assessments">Assessments</string>
+    <string name="SaveAssessment">Save Assessment</string>
+    <string name="DeleteAssessment">Delete Assessment</string>
+    <string name="AddAssessment">Add New Assessment</string>
+    <string name="PerformanceAssessments">Performance Assessments </string>
+    <string name="ObjectiveAssessments">Objective Assessments </string>
+    <string name="performanceName">Performance Assessment</string>
+    <string name="objectiveName">Objective Assessments</string>
+    <string name="performanceEnd">Performance Assessment Date</string>
+    <string name="objectiveEnd">Objective Assessments Date</string>
+    <string name="addPerformanceAssessment">View Performance Assessments</string>
+    <string name="addObjectiveAssessment">View Objective Assessements</string>
+    <string name="deleteAssessment">Delete Assessment</string>
+    <string name="courseID">Course ID</string>
+    <string name="school">School Scheduler</string>
+    <string name="courseInfo">You may add a course after saving the new term</string>
+    <string name="assessmentInfo">You may add an assessment after saving the new course</string>
+
+
+
+
+
+</resources>
